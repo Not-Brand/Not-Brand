@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Not-Brand
+- 👀 I’m interested in AI, Project Management and product development. 
+- 🌱 I’m currently learning Phython and C++ (Unreal Engine)
+- 💞️ I’m looking to collaborate on learning pojects for now. 
+- 📫 How to reach me brandon.lee.brown@icloud.com 
